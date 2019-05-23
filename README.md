@@ -1,6 +1,6 @@
-# miniyougou
+# ugo
 
-> 小程序
+> 优购小练习
 
 ## Build Setup
 

@@ -1,16 +1,18 @@
 {
 	"description": "项目配置文件。",
 	"setting": {
-		"urlCheck": true,
+		"urlCheck": false,
 		"es6": false,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"autoAudits": false,
+		"checkInvalidKey": true
 	},
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
 	"appid": "wxfe4c00212138f646",
-	"projectname": "miniyougou",
+	"projectname": "ugo",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"condition": {

@@ -1,9 +1,9 @@
 {
-  "name": "miniyougou",
+  "name": "ugo",
   "version": "1.0.0",
   "mpvueTemplateProjectVersion": "0.1.0",
-  "description": "小程序",
-  "author": "ronglei414 <1224623187@qq.com>",
+  "description": "优购小练习",
+  "author": "jianghuihui0224 <1679068166@qq.com>",
   "private": true,
   "scripts": {
     "dev:wx": "node build/dev-server.js wx",
@@ -23,6 +23,8 @@
     "build": "node build/build.js wx"
   },
   "dependencies": {
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
     "mpvue": "^2.0.0"
   },
   "devDependencies": {
